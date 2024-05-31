@@ -2,7 +2,7 @@
 
 **You can get all products by hitting the below endpoint**
 ```
-https://main--randomss.netlify.app/api/products
+https://nuxtapiservicesdocs.netlify.app/api/products
 ```
 
 
@@ -12,7 +12,7 @@ https://main--randomss.netlify.app/api/products
 
 **You can get a specific product by hitting the below endpoint**
 ```
-https://main--randomss.netlify.app/api/products/[id]
+https://nuxtapiservicesdocs.netlify.app/api/products/[id]
 ```
 - where id is the product id
 
@@ -22,7 +22,7 @@ https://main--randomss.netlify.app/api/products/[id]
 -------
 **You can add a new product by hitting the below endpoint**
 ```
-https://main--randomss.netlify.app/api/products
+https://nuxtapiservicesdocs.netlify.app/api/products
 ```
 [method: POST]
 
@@ -38,7 +38,7 @@ body: {
 -------
 **You can edit a product by hitting the below endpoint**
 ```
-https://main--randomss.netlify.app/api/products/[id]
+https://nuxtapiservicesdocs.netlify.app/api/products/[id]
 ```
 - where id is the product id
 
@@ -57,7 +57,7 @@ body: {
 -------
 **You can get all categories by hitting the below endpoint**
 ```
-https://main--randomss.netlify.app/api/products/categories
+https://nuxtapiservicesdocs.netlify.app/api/products/categories
 ```
 
 
@@ -66,7 +66,7 @@ https://main--randomss.netlify.app/api/products/categories
 -------
 **You can get a certain category by hitting the below endpoint**
 ```
-https://main--randomss.netlify.app/api/products/category/[type]
+https://nuxtapiservicesdocs.netlify.app/api/products/category/[type]
 ```
 
 

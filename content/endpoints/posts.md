@@ -2,7 +2,7 @@
 
 **Search for any celebrity name you want by using the below API endpoint**
 ```
-http://localhost:3000/api/posts
+https://nuxtapiservicesdocs.netlify.app/api/posts
 ```
 [method: GET]
 
@@ -11,7 +11,7 @@ http://localhost:3000/api/posts
 **You can get a specific post by hitting the below endpoint**
 
 ```
-http://localhost:3000/api/posts/[id]
+https://nuxtapiservicesdocs.netlify.app/api/posts/[id]
 ```
 - where id is the post id
 
@@ -22,7 +22,7 @@ http://localhost:3000/api/posts/[id]
 **You can add a new post by hitting the below endpoint**
 
 ```
-http://localhost:3000/api/posts
+https://nuxtapiservicesdocs.netlify.app/api/posts
 ```
 [method: POST]
 
@@ -38,7 +38,7 @@ body: {
 **You can edit a post by hitting the below endpoint**
 
 ```
-http://localhost:3000/api/posts/[id]
+https://nuxtapiservicesdocs.netlify.app/api/posts/[id]
 ```
 - where id is the post id   
 
@@ -55,7 +55,7 @@ body: {
 **You can edit part of a post by hitting the below endpoint**
 
 ```
-http://localhost:3000/api/posts/[id]
+https://nuxtapiservicesdocs.netlify.app/api/posts/[id]
 ```
 - where id is the post id 
 
@@ -71,7 +71,7 @@ body: {
 **And finally you can delete a specific post by hitting the below endpoint**
 
 ```
-http://localhost:3000/api/posts/[id]
+https://nuxtapiservicesdocs.netlify.app/api/posts/[id]
 ```
 - where id is the post id 
 
