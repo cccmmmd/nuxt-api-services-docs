@@ -5,6 +5,7 @@
 https://nuxtapiservicesdocs.netlify.app/api/celebrities
 ```
 [method: GET]
+
 [query or pqrams object]
 ```
 {name: 'the celebrity name'}
